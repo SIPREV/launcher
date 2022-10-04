@@ -538,7 +538,8 @@ exports.pullRemote = function(){
     }
     return new Promise((resolve, reject) => {
         // const distroURL = 'https://raw.githubusercontent.com/SIPREV/distub/main/distribution.json?token=GHSAT0AAAAAABZHU6LICBAJKIRFFWMZ5GVYYZUYPCA'
-        const distroURL = 'https://gist.githubusercontent.com/SIPREV/fc10325560135027e20762e0f23abe4f/raw/'
+        const distroURL = 'https://siprev.github.io/launcher/dev/distribution.json'
+        const devDistroURL = 'https://siprev.github.io/launcher/dev/dev_distribution.json'
         const opts = {
             url: distroURL,
             timeout: 2500
