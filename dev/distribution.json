@@ -10899,9 +10899,9 @@
       "id": "SiprevPack-1.12.2",
       "name": "SiprevPack (Minecraft 1.12.2)",
       "description": "SiprevPack Running Minecraft 1.12.2",
-      "icon": null,
+      "icon": "https://siprev.github.io/launcher/app/assets/images/siprev.png",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "158.101.173.95:25565",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "1.12.2 Test Server",
@@ -10909,7 +10909,7 @@
         "largeImageKey": "siprev"
       },
       "mainServer": false,
-      "autoconnect": false,
+      "autoconnect": true,
       "modules": []
     }
   ]
