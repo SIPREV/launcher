@@ -265,24 +265,6 @@
           }
         },
         {
-          "id": "bspkrs.bspkrscore.fml:bspkrscore:7.6.0.1@jar",
-          "name": "BspkrsCore",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 65907,
-            "url": "https://siprev.github.io/launcher/servers/SiprevLauncher-1.12.2/forgemods/required/[1.12]bspkrsCore-universal-7.6.0.1.jar"
-          }
-        },
-        {
-          "id": "bspkrs.treecapitator:treecapitator:1.43.0@jar",
-          "name": "TreeCapitator",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 101115,
-            "url": "https://siprev.github.io/launcher/servers/SiprevLauncher-1.12.2/forgemods/required/[1.12]TreeCapitator-client-1.43.0.jar"
-          }
-        },
-        {
           "id": "com.gildedgames.the_aether:aether_legacy:v1.5.3.2@jar",
           "name": "The Aether",
           "type": "ForgeMod",
