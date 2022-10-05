@@ -1,0 +1,37 @@
+{
+  "$schema": "file:///D:/TestRoot/launcher/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "SiprevPack",
+    "description": "Paczka na server",
+    "address": "158.101.173.95:25565",
+    "discord": {
+      "shortId": "1.12.2 Test Server",
+      "largeImageText": "1.12.2 Test Server",
+      "largeImageKey": "icon"
+    },
+    "mainServer": false,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "14.23.5.2860"
+  },
+  "untrackedFiles": [
+       {
+        "appliesTo": ["forgemods"],
+        "patterns": [
+         "required/*.jar",
+         "optionalon/*.jar",
+         "optionaloff/*.jar"
+          ]
+        },
+        {
+          "appliesTo": ["files"],
+          "patterns": [
+            "config/*.cfg",
+            "config/**/*.yml"
+          ]
+        }
+        
+      ]
+    }
