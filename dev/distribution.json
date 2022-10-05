@@ -979,15 +979,6 @@
           }
         },
         {
-          "id": "stevekung.mods.stevekunglib.core:stevekung's_lib:1.2.0@jar",
-          "name": "SteveKunG's Lib",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1062538,
-            "url": "https://siprev.github.io/launcher/servers/SiprevLauncher-1.12.2/forgemods/required/SteveKunG's-Lib-1.12.2-1.2.0.jar"
-          }
-        },
-        {
           "id": "com.jaquadro.minecraft:storagedrawers:1.12.2-5.4.2@jar",
           "name": "Storage Drawers",
           "type": "ForgeMod",
